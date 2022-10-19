@@ -1,0 +1,9 @@
+/** 2022/3/17
+  * 作者:丁557
+  * 功能:公共属性编码文件
+*/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: content-box;
+}
